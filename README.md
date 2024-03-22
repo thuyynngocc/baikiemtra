@@ -66,4 +66,10 @@
 - **Github:** [Link đến tài khoản Github của bạn]
 - **LinkedIn:** [Link đến trang LinkedIn của bạn]
 
-**Ghi chú:** Đây chỉ là một bản mô phỏng. Vui lòng thay đổi các mục tiêu theo thông tin cá nhân của bạn. Chúc bạn thành công! 🚀
+---
+
+**Giới thiệu bản thân:**
+
+Xin chào, tôi là [Tên của bạn], một nhà phát triển phần mềm có kinh nghiệm trong việc phát triển các ứng dụng web và di động. Tôi đã tham gia và dẫn dắt các dự án từ việc thiết kế đến triển khai, đảm bảo rằng các sản phẩm đều đáp ứng được nhu cầu của khách hàng và người dùng cuối. Tôi đam mê công nghệ và luôn tìm kiếm cơ hội để học hỏi và phát triển kỹ năng của mình trong lĩnh vực này.
+
+Chúc bạn một ngày tốt lành và cảm ơn đã xem hồ sơ của tôi!
